@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "co.edu.uelbosque.mimoodle"
         versionCode = "2010"
-        version   = "2.9">
-    <name>Moodle Mobile</name>
+        version   = "2.0">
+    <name>Virtual UelBosque</name>
 
     <description>
-        Moodle Mobile official app
+       Personalizada por Gustavo Andrés Aguirre y tiene modificaciones de personalización a nivel de estructura.
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://ubosquemoodle.unbosque.edu.co/moodle/" email="mobile@moodle.com">
         Moodle Pty Ltd
     </author>
 
