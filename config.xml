@@ -14,6 +14,7 @@
     <author href="http://ubosquemoodle.unbosque.edu.co/moodle/" email="mobile@moodle.com">
         Moodle Pty Ltd
     </author>
+  GUSTAVO ANDRÉS AGUIRRE B.
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
         <string>2.9</string>
